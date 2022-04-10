@@ -1,7 +1,7 @@
 # Climate-conditions-API
 
-Install packages
+Install packages: 
 <code>npm install</code>
 
-Run Application
-npm run start
+Run Application: 
+<code>npm run start</code>
