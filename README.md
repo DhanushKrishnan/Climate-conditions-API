@@ -1,6 +1,6 @@
 # Climate-conditions-API
 
-Install packages: 
+Install packages/node modules : 
 <code>npm install</code>
 
 Run Application: 
